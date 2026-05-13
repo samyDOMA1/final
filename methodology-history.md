@@ -1,5 +1,5 @@
 # Methodology Git Workflow
 
 Release line: baseline branch point.
-Hotfix slot: no active hotfix.
+Hotfix slot: hotfix1 branch opened for release correction.
 Feature line: ready for independent feature work.
